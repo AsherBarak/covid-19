@@ -1,4 +1,4 @@
-[Play it here!](https://ncase.me/covid-19/)
+[Play it here!](https://asherbarak.github.io/covid-19/)
 
 # How To Translate
 
